@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "1017eat_0000.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 433,
+                "h": 211,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 31,
+                "y": 19,
+                "w": 433,
+                "h": 211
+            },
+            "sourceSize": {
+                "w": 480,
+                "h": 280
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "1017eat_0001.png": {
+            "frame": {
+                "x": 0,
+                "y": 213,
+                "w": 460,
+                "h": 229,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 36,
+                "w": 460,
+                "h": 229
+            },
+            "sourceSize": {
+                "w": 480,
+                "h": 280
+            },
+            "rotated": false,
+            "trimed": true
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "1017eat.png",
+        "prefix": ""
+    }
+}

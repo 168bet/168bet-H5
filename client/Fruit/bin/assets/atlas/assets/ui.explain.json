@@ -1,0 +1,138 @@
+{
+    "frames": {
+        "img_explainDesc.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 148,
+                "h": 40,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 148,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 148,
+                "h": 40
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_explain_0004.png": {
+            "frame": {
+                "x": 0,
+                "y": 42,
+                "w": 160,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_explain_0006.png": {
+            "frame": {
+                "x": 0,
+                "y": 75,
+                "w": 96,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 96,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 96,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_explain_0008.png": {
+            "frame": {
+                "x": 98,
+                "y": 75,
+                "w": 64,
+                "h": 31,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 64,
+                "h": 31
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_explain_0010.png": {
+            "frame": {
+                "x": 0,
+                "y": 108,
+                "w": 64,
+                "h": 35,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 64,
+                "h": 35
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_explain_0013.png": {
+            "frame": {
+                "x": 0,
+                "y": 145,
+                "w": 127,
+                "h": 32,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 127,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 127,
+                "h": 32
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "ui.explain.png",
+        "prefix": "assets\/ui.explain\/"
+    }
+}

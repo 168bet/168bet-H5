@@ -1,0 +1,7 @@
+<res>
+   <item name="ui.loader" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui.table/Bg5.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui.table/Bg6.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui.table/Bg7.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui.table/blueBg.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+</res>

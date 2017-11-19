@@ -1,0 +1,222 @@
+{
+    "frames": {
+        "starEffect_0000.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 65,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 83,
+                "y": 74,
+                "w": 64,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "starEffect_0001.png": {
+            "frame": {
+                "x": 0,
+                "y": 67,
+                "w": 76,
+                "h": 75,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 78,
+                "y": 69,
+                "w": 76,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "starEffect_0002.png": {
+            "frame": {
+                "x": 0,
+                "y": 144,
+                "w": 101,
+                "h": 95,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 66,
+                "y": 60,
+                "w": 101,
+                "h": 95
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "starEffect_0003.png": {
+            "frame": {
+                "x": 78,
+                "y": 0,
+                "w": 124,
+                "h": 116,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 55,
+                "y": 50,
+                "w": 124,
+                "h": 116
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "starEffect_0004.png": {
+            "frame": {
+                "x": 0,
+                "y": 241,
+                "w": 142,
+                "h": 134,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 46,
+                "y": 41,
+                "w": 142,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "starEffect_0005.png": {
+            "frame": {
+                "x": 0,
+                "y": 377,
+                "w": 159,
+                "h": 150,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 38,
+                "y": 33,
+                "w": 159,
+                "h": 150
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "starEffect_0006.png": {
+            "frame": {
+                "x": 144,
+                "y": 118,
+                "w": 172,
+                "h": 163,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 32,
+                "y": 27,
+                "w": 172,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "starEffect_0007.png": {
+            "frame": {
+                "x": 161,
+                "y": 283,
+                "w": 183,
+                "h": 177,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 27,
+                "y": 18,
+                "w": 183,
+                "h": 177
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "starEffect_0008.png": {
+            "frame": {
+                "x": 318,
+                "y": 0,
+                "w": 191,
+                "h": 185,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 23,
+                "y": 14,
+                "w": 191,
+                "h": 185
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "starEffect_0009.png": {
+            "frame": {
+                "x": 346,
+                "y": 187,
+                "w": 194,
+                "h": 192,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 21,
+                "y": 10,
+                "w": 194,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 220
+            },
+            "rotated": false,
+            "trimed": true
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "starEffect.png",
+        "prefix": ""
+    }
+}

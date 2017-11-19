@@ -1,0 +1,159 @@
+{
+    "frames": {
+        "black_white.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 512,
+                "h": 512
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "golden.png": {
+            "frame": {
+                "x": 0,
+                "y": 514,
+                "w": 512,
+                "h": 512,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 512,
+                "h": 512
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "orange_yellow.png": {
+            "frame": {
+                "x": 0,
+                "y": 1028,
+                "w": 512,
+                "h": 512,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 512,
+                "h": 512
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "sky_blue.png": {
+            "frame": {
+                "x": 514,
+                "y": 0,
+                "w": 512,
+                "h": 512,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 512,
+                "h": 512
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "white.png": {
+            "frame": {
+                "x": 1028,
+                "y": 0,
+                "w": 512,
+                "h": 512,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 512,
+                "h": 512
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "white_loader.png": {
+            "frame": {
+                "x": 514,
+                "y": 514,
+                "w": 512,
+                "h": 512,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 512,
+                "h": 512
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "yellow.png": {
+            "frame": {
+                "x": 514,
+                "y": 1028,
+                "w": 512,
+                "h": 512,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 512,
+                "h": 512
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "ui.fonts.png",
+        "prefix": "assets\/ui.fonts\/"
+    }
+}

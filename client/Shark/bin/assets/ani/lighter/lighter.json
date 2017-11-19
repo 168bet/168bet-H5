@@ -1,0 +1,138 @@
+{
+    "frames": {
+        "lighter_0000.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 194,
+                "h": 134,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 194,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 194,
+                "h": 134
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "lighter_0001.png": {
+            "frame": {
+                "x": 196,
+                "y": 0,
+                "w": 194,
+                "h": 134,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 194,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 194,
+                "h": 134
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "lighter_0002.png": {
+            "frame": {
+                "x": 0,
+                "y": 136,
+                "w": 194,
+                "h": 134,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 194,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 194,
+                "h": 134
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "lighter_0003.png": {
+            "frame": {
+                "x": 0,
+                "y": 272,
+                "w": 194,
+                "h": 134,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 194,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 194,
+                "h": 134
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "lighter_0004.png": {
+            "frame": {
+                "x": 196,
+                "y": 136,
+                "w": 194,
+                "h": 134,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 194,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 194,
+                "h": 134
+            },
+            "rotated": false,
+            "trimed": true
+        },
+        "lighter_0005.png": {
+            "frame": {
+                "x": 196,
+                "y": 272,
+                "w": 194,
+                "h": 134,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 194,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 194,
+                "h": 134
+            },
+            "rotated": false,
+            "trimed": true
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "lighter.png",
+        "prefix": ""
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "frames": {
+        "banker.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 257,
+                "h": 135,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 257,
+                "h": 135
+            },
+            "sourceSize": {
+                "w": 257,
+                "h": 135
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "double.png": {
+            "frame": {
+                "x": 0,
+                "y": 137,
+                "w": 53,
+                "h": 28,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 53,
+                "h": 28
+            },
+            "sourceSize": {
+                "w": 53,
+                "h": 28
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "half.png": {
+            "frame": {
+                "x": 55,
+                "y": 137,
+                "w": 53,
+                "h": 28,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 53,
+                "h": 28
+            },
+            "sourceSize": {
+                "w": 53,
+                "h": 28
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "ui.double.png",
+        "prefix": "assets\/ui.double\/"
+    }
+}

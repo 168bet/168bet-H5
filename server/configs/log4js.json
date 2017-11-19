@@ -1,0 +1,149 @@
+{
+    "localhost": {
+        "appenders": [
+            {
+                "type": "console",
+                "category": "console"
+            },
+
+            {
+                "type": "console",
+                "category": "access"
+            },
+
+            {
+                "type": "console",
+                "category": "application"
+            }
+        ],
+
+        "replaceConsole": true,
+        "levels": {
+            "console": "ALL",
+            "access": "ALL",
+            "application": "ALL"
+        }
+    },
+
+    "debug": {
+        "appenders": [
+            {
+                "type": "console",
+                "category": "console"
+            },
+
+            {
+                "type": "console",
+                "category": "access"
+            },
+
+            {
+                "type": "console",
+                "category": "application"
+            }
+        ],
+
+        "replaceConsole": true,
+        "levels": {
+            "console": "ALL",
+            "access": "ALL",
+            "application": "ALL"
+        }
+    },
+
+    "testgg": {
+        "appenders": [
+            {
+                "type": "console",
+                "category": "console"
+            },
+
+            {
+                "type": "file",
+                "category": "access",
+                "filename": "../logs/papaya/access.log",
+                "maxLogSize": 102400000,
+                "backups": 100
+            },
+
+            {
+                "type": "dateFile",
+                "category": "application",
+                "filename": "../logs/papaya/application.log",
+                "pattern": "-yyyy-MM-dd",
+                "alwaysIncludePattern": true
+            }
+        ],
+
+        "replaceConsole": true,
+        "levels": {
+            "console": "ALL",
+            "access": "ALL",
+            "application": "ALL"
+        }
+    },
+
+    "development": {
+        "appenders": [
+            {
+                "type": "console",
+                "category": "console"
+            },
+
+            {
+                "type": "file",
+                "category": "access",
+                "filename": "/data/logs/papaya/access.log",
+                "maxLogSize": 102400000,
+                "backups": 100
+            },
+
+            {
+                "type": "dateFile",
+                "category": "application",
+                "filename": "/data/logs/papaya/application.log",
+                "pattern": "-yyyy-MM-dd",
+                "alwaysIncludePattern": true
+            }
+        ],
+
+        "replaceConsole": true,
+        "levels": {
+            "console": "ALL",
+            "access": "ALL",
+            "application": "ALL"
+        }
+    },
+
+    "production": {
+        "appenders": [
+            {
+                "type": "console",
+                "category": "console"
+            },
+
+            {
+                "type": "file",
+                "category": "access",
+                "filename": "/data/logs/papaya/access.log",
+                "maxLogSize": 102400000,
+                "backups": 100
+            },
+
+            {
+                "type": "dateFile",
+                "category": "application",
+                "filename": "/data/logs/papaya/application.log",
+                "pattern": "-yyyy-MM-dd",
+                "alwaysIncludePattern": true
+            }
+        ],
+
+        "replaceConsole": true,
+        "levels": {
+            "console": "ALL",
+            "access": "ALL",
+            "application": "ALL"
+        }
+    }
+}

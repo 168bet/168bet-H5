@@ -1,0 +1,51 @@
+{
+  "localhost": {
+    "host"              : "127.0.0.1",
+    "port"              : "3306",
+    "user"              : "root",
+    "password"          : "root",
+    "database"          : "db_whalejoy_papaya",
+    "connectionLimit"   : 5,
+    "multipleStatements": true
+  },
+
+  "debug": {
+    "host"              : "192.168.80.253",
+    "port"              : "3306",
+    "user"              : "root",
+    "password"          : "root",
+    "database"          : "db_whalejoy_papaya",
+    "connectionLimit"   : 5,
+    "multipleStatements": true
+  },
+
+  "testgg": {
+    "host"              : "127.0.0.1",
+    "port"              : "3306",
+    "user"              : "root",
+    "password"          : "root",
+    "database"          : "papaya",
+    "connectionLimit"   : 5,
+    "multipleStatements": true
+  },
+
+  "development": {
+    "host"              : "narwhale.mysql.rds.aliyuncs.com",
+    "port"              : "3306",
+    "user"              : "root",
+    "password"          : "root",
+    "database"          : "db_sandbox_papaya",
+    "connectionLimit"   : 5,
+    "multipleStatements": true
+  },
+
+  "production": {
+    "host"              : "narwhale.mysql.rds.aliyuncs.com",
+    "port"              : "3306",
+    "user"              : "root",
+    "password"          : "root",
+    "database"          : "db_whalejoy_papaya",
+    "connectionLimit"   : 30,
+    "multipleStatements": true
+  }
+}

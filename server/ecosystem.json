@@ -1,0 +1,68 @@
+{
+    "apps" : [
+        {
+            "name"             : "papaya",
+            "script"           : "server.js",
+            "env_production" : {
+                "NODE_ENV": "production",
+                "DEBUG": "papaya:*",
+                "DEBUG_COLORS": true,
+                "REGION": "production"
+            },
+            "env_development" : {
+                "NODE_ENV": "development",
+                "DEBUG": "papaya:*",
+                "DEBUG_COLORS": true,
+                "REGION": "sandbox"
+            },
+            "env_debug" : {
+                "NODE_ENV": "debug",
+                "DEBUG": "papaya:*",
+                "DEBUG_COLORS": true,
+                "REGION": "debug"
+            },
+            "env_testgg" : {
+                "NODE_ENV": "testgg",
+                "DEBUG": "papaya:*",
+                "DEBUG_COLORS": true,
+                "REGION": "testgg"
+            }
+        }
+    ],
+
+    "deploy" : {
+        "production" : {
+            "user" : "root",
+            "host" : "master.whalejoy.com",
+            "ref"  : "origin/master",
+            "repo" : "git@git.whalejoy.com:/data/repos/papaya.git",
+            "path" : "/home/whalejoy/production/papaya",
+            "post-deploy" : "cd papaya && npm install && cd ../server && npm install && pm2 startOrRestart ecosystem.json --env production",
+            "env": {
+                "NODE_ENV": "production"
+            }
+        },
+        "development" : {
+            "user" : "root",
+            "host" : "sandbox.whalejoy.com",
+            "ref"  : "origin/master",
+            "repo" : "git@git.whalejoy.com:/data/repos/papaya.git",
+            "path" : "/home/whalejoy/development/papaya",
+            "post-deploy" : "cd papaya && npm install && cd ../server && npm install && pm2 startOrRestart ecosystem.json --env development",
+            "env"  : {
+                "NODE_ENV": "development"
+            }
+        },
+        "debug" : {
+            "user" : "root",
+            "host" : "192.168.80.253",
+            "ref"  : "origin/master",
+            "repo" : "git@git.whalejoy.com:/data/repos/papaya.git",
+            "path" : "/home/yomato/development/papaya",
+            "post-deploy" : "cd papaya && npm install && cd ../server && npm install && pm2 startOrRestart ecosystem.json --env debug",
+            "env"  : {
+                "NODE_ENV": "debug"
+            }
+        }
+    }
+}

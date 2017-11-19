@@ -1,0 +1,285 @@
+{
+    "frames": {
+        "button_stake.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 354,
+                "h": 66,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 354,
+                "h": 66
+            },
+            "sourceSize": {
+                "w": 354,
+                "h": 66
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_backTitle.png": {
+            "frame": {
+                "x": 356,
+                "y": 0,
+                "w": 130,
+                "h": 57,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 130,
+                "h": 57
+            },
+            "sourceSize": {
+                "w": 130,
+                "h": 57
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_bet.png": {
+            "frame": {
+                "x": 356,
+                "y": 59,
+                "w": 130,
+                "h": 57,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 130,
+                "h": 57
+            },
+            "sourceSize": {
+                "w": 130,
+                "h": 57
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_betOn.png": {
+            "frame": {
+                "x": 488,
+                "y": 0,
+                "w": 67,
+                "h": 21,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 67,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 67,
+                "h": 21
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_bg_1.png": {
+            "frame": {
+                "x": 0,
+                "y": 68,
+                "w": 154,
+                "h": 241,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 241
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 241
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_bg_2.png": {
+            "frame": {
+                "x": 156,
+                "y": 68,
+                "w": 158,
+                "h": 245,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 245
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 245
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_bottom_middle.png": {
+            "frame": {
+                "x": 0,
+                "y": 315,
+                "w": 440,
+                "h": 163,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 440,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 440,
+                "h": 163
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_discard.png": {
+            "frame": {
+                "x": 316,
+                "y": 118,
+                "w": 45,
+                "h": 21,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 45,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 45,
+                "h": 21
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_playerFrame.png": {
+            "frame": {
+                "x": 363,
+                "y": 118,
+                "w": 136,
+                "h": 136,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 136
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 136
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_pool.png": {
+            "frame": {
+                "x": 488,
+                "y": 23,
+                "w": 75,
+                "h": 35,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 35
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_round.png": {
+            "frame": {
+                "x": 442,
+                "y": 256,
+                "w": 140,
+                "h": 140,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_title_6.png": {
+            "frame": {
+                "x": 0,
+                "y": 480,
+                "w": 334,
+                "h": 52,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 334,
+                "h": 52
+            },
+            "sourceSize": {
+                "w": 334,
+                "h": 52
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "img_userIconFrame.png": {
+            "frame": {
+                "x": 442,
+                "y": 398,
+                "w": 142,
+                "h": 142,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 142,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 142,
+                "h": 142
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "ui.game.png",
+        "prefix": "assets\/ui.game\/"
+    }
+}

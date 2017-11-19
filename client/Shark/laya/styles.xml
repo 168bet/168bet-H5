@@ -1,0 +1,13 @@
+<res>
+   <item name="ui/Loader" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui/ani" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/Loader" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/ani" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/fonts" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/ui/bg" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/ui" type="" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="Loader" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="fonts" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui/bg" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="bg" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+</res>

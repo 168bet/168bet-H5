@@ -1,0 +1,47 @@
+{
+    "localhost": {
+        "host":           "127.0.0.1",
+        "port":           6379,
+        "db":             1,
+        "ttl":            604800,
+        "disableTTL":     false,
+        "prefix":         "papaya:session:"
+    },
+
+    "debug": {
+        "host":           "192.168.80.253",
+        "port":           6379,
+        "db":             1,
+        "ttl":            3600,
+        "disableTTL":     false,
+        "prefix":         "papaya:session:"
+    },
+
+    "testgg": {
+        "host":           "127.0.0.1",
+        "port":           6379,
+        "db":             1,
+        "ttl":            604800,
+        "disableTTL":     false,
+        "prefix":         "papaya:session:"
+    },
+
+    "development": {
+        "host":           "127.0.0.1",
+        "port":           6379,
+        "db":             1,
+        "ttl":            604800,
+        "disableTTL":     false,
+        "prefix":         "papaya:session:"
+    },
+
+    "production": {
+        "host":           "9491c5257ba54422.m.cnsza.kvstore.aliyuncs.com",
+        "port":           6379,
+        "db":             1,
+        "pass":           "9491c5257ba54422:Whalejoy20140508",
+        "ttl":            604800,
+        "disableTTL":     false,
+        "prefix":         "papaya:session:"
+    }
+}

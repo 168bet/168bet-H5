@@ -1,0 +1,6 @@
+[
+    "pokerGo/pokerGo.boot.js",
+    "pokerGo/pokerGo.poker.js",
+    "pokerGo/pokerGo.game.js",
+    "pokerGo/pokerGo.double.js"
+]

@@ -1,0 +1,31 @@
+{
+  "name": "papaya",
+  "description": "Papaya web service",
+  "main": "",
+  "authors": [
+    "X"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "papaya"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.2",
+    "angular-animate": "^1.6.2",
+    "angular-touch": "^1.6.2",
+    "angular-ui-router": "ui-router#^0.4.2",
+    "angular-resource": "^1.6.2",
+    "angular-sanitize": "^1.6.2"
+  }
+}

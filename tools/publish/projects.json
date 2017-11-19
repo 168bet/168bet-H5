@@ -1,0 +1,17 @@
+{
+    "Lucky5": {
+        "baseDir":     "../../client/lucky5"
+    },
+    "Shark": {
+        "baseDir":     "../../client/Shark"
+    },
+    "Fruit": {
+        "baseDir":     "../../client/Fruit"
+    },
+    "pokerGo": {
+        "baseDir":     "../../client/pokerGo"
+    },
+    "DiamondDeal": {
+        "baseDir":     "../../client/DiamondDeal"
+    }
+}

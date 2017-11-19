@@ -1,0 +1,180 @@
+{
+    "frames": {
+        "btn_001.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 142,
+                "h": 146,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 142,
+                "h": 146
+            },
+            "sourceSize": {
+                "w": 142,
+                "h": 146
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "btn_002.png": {
+            "frame": {
+                "x": 0,
+                "y": 148,
+                "w": 124,
+                "h": 146,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 124,
+                "h": 146
+            },
+            "sourceSize": {
+                "w": 124,
+                "h": 146
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "btn_003.png": {
+            "frame": {
+                "x": 126,
+                "y": 148,
+                "w": 97,
+                "h": 146,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 97,
+                "h": 146
+            },
+            "sourceSize": {
+                "w": 97,
+                "h": 146
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "btn_004.png": {
+            "frame": {
+                "x": 144,
+                "y": 0,
+                "w": 97,
+                "h": 146,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 97,
+                "h": 146
+            },
+            "sourceSize": {
+                "w": 97,
+                "h": 146
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "btn_005.png": {
+            "frame": {
+                "x": 225,
+                "y": 148,
+                "w": 92,
+                "h": 152,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 92,
+                "h": 152
+            },
+            "sourceSize": {
+                "w": 92,
+                "h": 152
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "btn_006.png": {
+            "frame": {
+                "x": 243,
+                "y": 0,
+                "w": 120,
+                "h": 122,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 122
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 122
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "btn_007.png": {
+            "frame": {
+                "x": 0,
+                "y": 296,
+                "w": 47,
+                "h": 47,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 47,
+                "h": 47
+            },
+            "sourceSize": {
+                "w": 47,
+                "h": 47
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "btn_008.png": {
+            "frame": {
+                "x": 319,
+                "y": 124,
+                "w": 75,
+                "h": 150,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 150
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 150
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "ui.button.png",
+        "prefix": "assets\/ui.button\/"
+    }
+}

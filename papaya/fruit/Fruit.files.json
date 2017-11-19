@@ -1,0 +1,7 @@
+[
+  "Fruit/Fruit.boot.js",
+  "Fruit/Fruit.rotary.js",
+  "Fruit/Fruit.logic.js",
+  "Fruit/Fruit.game.js",
+  "Fruit/Fruit.events.js"
+]

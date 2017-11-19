@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<font>
+  <info face="Roboto Bk" size="-32" bold="0" italic="1" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="1,1" outline="0"/>
+  <common lineHeight="38" base="30" scaleW="256" scaleH="512" pages="1" packed="0" alphaChnl="0" redChnl="4" greenChnl="4" blueChnl="4"/>
+  <pages>
+    <page id="0" file="poker_2.png" />
+  </pages>
+  <chars count="13">
+    <char id="43" x="142" y="0" width="26" height="35" xoffset="0" yoffset="0" xadvance="26" page="0" chnl="15" />
+    <char id="48" x="58" y="0" width="27" height="35" xoffset="0" yoffset="0" xadvance="27" page="0" chnl="15" />
+    <char id="49" x="26" y="36" width="24" height="35" xoffset="0" yoffset="0" xadvance="24" page="0" chnl="15" />
+    <char id="50" x="223" y="0" width="25" height="35" xoffset="0" yoffset="0" xadvance="25" page="0" chnl="15" />
+    <char id="51" x="51" y="36" width="24" height="35" xoffset="0" yoffset="0" xadvance="24" page="0" chnl="15" />
+    <char id="52" x="86" y="0" width="27" height="35" xoffset="0" yoffset="0" xadvance="27" page="0" chnl="15" />
+    <char id="53" x="76" y="36" width="24" height="35" xoffset="0" yoffset="0" xadvance="24" page="0" chnl="15" />
+    <char id="54" x="169" y="0" width="26" height="35" xoffset="0" yoffset="0" xadvance="26" page="0" chnl="15" />
+    <char id="55" x="0" y="36" width="25" height="35" xoffset="0" yoffset="0" xadvance="25" page="0" chnl="15" />
+    <char id="56" x="114" y="0" width="27" height="35" xoffset="0" yoffset="0" xadvance="27" page="0" chnl="15" />
+    <char id="57" x="196" y="0" width="26" height="35" xoffset="0" yoffset="0" xadvance="26" page="0" chnl="15" />
+    <char id="88" x="0" y="0" width="28" height="35" xoffset="0" yoffset="0" xadvance="28" page="0" chnl="15" />
+    <char id="120" x="29" y="0" width="28" height="35" xoffset="0" yoffset="0" xadvance="28" page="0" chnl="15" />
+  </chars>
+</font>

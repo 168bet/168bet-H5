@@ -1,0 +1,9 @@
+{
+    "renderMode": 0,
+    "showFPS": true,
+    "frameRate": 30,
+    "version": "1.0.0",
+    "singleAlone": false,
+    "service": "http://127.0.0.1:2700",
+    "appID":100006
+}

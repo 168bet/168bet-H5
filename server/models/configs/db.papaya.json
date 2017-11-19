@@ -1,0 +1,56 @@
+{
+  "localhost": {
+    "db"                : "db_whalejoy_papaya",
+    "user"              : "root",
+    "password"          : "root",
+    "options"           : {
+      "host"            : "127.0.0.1",
+      "dialect"         : "mysql",
+      "pool"            : { "max": 5, "min": 0, "idle": 10000 }
+    }
+  },
+
+  "debug": {
+    "db"                : "db_whalejoy_papaya",
+    "user"              : "root",
+    "password"          : "root",
+    "options"           : {
+      "host"            : "192.168.80.253",
+      "dialect"         : "mysql",
+      "pool"            : { "max": 5, "min": 0, "idle": 10000 }
+    }
+  },
+
+  "testgg": {
+    "db"                : "papaya",
+    "user"              : "root",
+    "password"          : "root",
+    "options"           : {
+      "host"            : "127.0.0.1",
+      "dialect"         : "mysql",
+      "pool"            : { "max": 30, "min": 0, "idle": 10000 }
+    }
+  },
+
+  "development": {
+    "db"                : "db_sandbox_papaya",
+    "user"              : "root",
+    "password"          : "root",
+    "options"           : {
+      "host"            : "narwhale.mysql.rds.aliyuncs.com",
+      "dialect"         : "mysql",
+      "pool"            : { "max": 5, "min": 0, "idle": 10000 }
+    }
+  },
+
+  "production": {
+    "db"                : "db_whalejoy_papaya",
+    "user"              : "root",
+    "password"          : "root",
+    "options"           : {
+      "host"            : "narwhale.mysql.rds.aliyuncs.com",
+      "dialect"         : "mysql",
+      "pool"            : { "max": 5, "min": 0, "idle": 10000 }
+    }
+  }
+}
