@@ -7,7 +7,7 @@
 
   "debug": {
     "port":    6379,
-    "addr":    "192.168.80.253",
+    "addr":    "52.191.112.94",
     "options": {}
   },
 
@@ -25,7 +25,7 @@
 
   "production": {
     "port":    6379,
-    "addr":    "9491c5257ba54422.m.cnsza.kvstore.aliyuncs.com",
+    "addr":    "9491c5257ba54422.m.cnsza.kvstore.158bet.net",
     "options": { "auth_pass": "9491c5257ba54422:Whalejoy20140508" }
   }
 }

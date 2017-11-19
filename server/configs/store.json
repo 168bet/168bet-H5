@@ -9,7 +9,7 @@
     },
 
     "debug": {
-        "host":           "192.168.80.253",
+        "host":           "52.191.112.94",
         "port":           6379,
         "db":             1,
         "ttl":            3600,
@@ -36,7 +36,7 @@
     },
 
     "production": {
-        "host":           "9491c5257ba54422.m.cnsza.kvstore.aliyuncs.com",
+        "host":           "9491c5257ba54422.m.cnsza.kvstore.158bet.net",
         "port":           6379,
         "db":             1,
         "pass":           "9491c5257ba54422:Whalejoy20140508",

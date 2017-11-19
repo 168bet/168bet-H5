@@ -15,7 +15,7 @@
     "user"              : "root",
     "password"          : "root",
     "options"           : {
-      "host"            : "192.168.80.253",
+      "host"            : "52.191.112.94",
       "dialect"         : "mysql",
       "pool"            : { "max": 5, "min": 0, "idle": 10000 }
     }
@@ -37,7 +37,7 @@
     "user"              : "root",
     "password"          : "root",
     "options"           : {
-      "host"            : "narwhale.mysql.rds.aliyuncs.com",
+      "host"            : "narwhale.mysql.rds.158bet.net",
       "dialect"         : "mysql",
       "pool"            : { "max": 5, "min": 0, "idle": 10000 }
     }
@@ -48,7 +48,7 @@
     "user"              : "root",
     "password"          : "root",
     "options"           : {
-      "host"            : "narwhale.mysql.rds.aliyuncs.com",
+      "host"            : "narwhale.mysql.rds.158bet.net",
       "dialect"         : "mysql",
       "pool"            : { "max": 5, "min": 0, "idle": 10000 }
     }

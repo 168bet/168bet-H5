@@ -10,7 +10,7 @@
   },
 
   "debug": {
-    "host"              : "192.168.80.253",
+    "host"              : "52.191.112.94",
     "port"              : "3306",
     "user"              : "root",
     "password"          : "root",
@@ -30,7 +30,7 @@
   },
 
   "development": {
-    "host"              : "narwhale.mysql.rds.aliyuncs.com",
+    "host"              : "narwhale.mysql.rds.158bet.net",
     "port"              : "3306",
     "user"              : "root",
     "password"          : "root",
@@ -40,7 +40,7 @@
   },
 
   "production": {
-    "host"              : "narwhale.mysql.rds.aliyuncs.com",
+    "host"              : "narwhale.mysql.rds.158bet.net",
     "port"              : "3306",
     "user"              : "root",
     "password"          : "root",
